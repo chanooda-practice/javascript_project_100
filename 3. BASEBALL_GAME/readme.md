@@ -16,4 +16,4 @@ js 배열의 특성을 활용하여 정답과 입력값을 비교하였다.
 
 ### 프로젝트 정리 notion
 
-[notion](https://reinvented-magnolia-c6f.notion.site/46393e7b2b934821a886fecb3fca4f16)
+[notion](https://reinvented-magnolia-c6f.notion.site/e27ca80263264ffabea0c6e545dbbc4d)

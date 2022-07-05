@@ -17,4 +17,4 @@ setTimeOut 메서드와 메서드가 반환하는 timeoutId를 이용하여 이�
 
 ### 프로젝트 정리 notion
 
-[notion](https://reinvented-magnolia-c6f.notion.site/PROGRESS-BAR-6168a38ab16d4c5fb3333ffb13a8ad4d)
+[notion]([https://reinvented-magnolia-c6f.notion.site/PROGRESS-BAR-6168a38ab16d4c5fb3333ffb13a8ad4d](https://reinvented-magnolia-c6f.notion.site/PROGRESS-BAR-46689d50ab2b408dabe6f437b324430d))

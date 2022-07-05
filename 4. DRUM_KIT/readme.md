@@ -18,4 +18,4 @@ class와 이벤트 리스너, event 인자 속성 등을 이용해 애니메이�
 
 ### 프로젝트 정리 notion
 
-[notion](https://reinvented-magnolia-c6f.notion.site/DRUM-KIT-38abdfc9f8a447d5a3a0ce8e71f401dc)
+[notion](https://reinvented-magnolia-c6f.notion.site/DRUM-KIT-e8e2047180d5455aac9b13aeb5f995f3)

@@ -19,4 +19,4 @@
 
 ### 프로젝트 정리 notion
 
-[notion](https://reinvented-magnolia-c6f.notion.site/INFINITE-SCROLL-1ae1bac2680045349ad82c41dc48b932)
+[notion](https://reinvented-magnolia-c6f.notion.site/INFINITE-SCROLL-eeeb3df41a7144d5a5e37bc5d552206b)

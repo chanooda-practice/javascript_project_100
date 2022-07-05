@@ -17,4 +17,4 @@
 
 ### 프로젝트 정리 notion
 
-[notion](https://reinvented-magnolia-c6f.notion.site/605ac6d46efb4167b76abc7221dd6c66)
+[notion](https://reinvented-magnolia-c6f.notion.site/8588a01701ad4280959fabb5864ed0b8)

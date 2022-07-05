@@ -15,4 +15,4 @@ todo list의 생성 수정 삭제의 과정을 경험하면서 다양한 rest ap
 
 ### 프로젝트 과정을 간략하게 notion에 정리했다.
 
-[notion link](https://reinvented-magnolia-c6f.notion.site/TODO-LIST-2a3ca9f4532944aa97f40f3c44259574)
+[notion link](https://reinvented-magnolia-c6f.notion.site/TODO-LIST-6bc17f729479411eb43269a9d428903e)
